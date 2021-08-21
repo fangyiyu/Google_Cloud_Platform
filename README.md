@@ -65,5 +65,6 @@ EOF
 
 The pop method copies and removes the label column from the dataframe:```train_x, train_y = train_df, train_df.pop(_LABEL_COLUMN)```
 
-
+## Resources
+- [AI Platform: Qwik start](https://google.qwiklabs.com/focuses/581?parent=catalog): [notebook](https://github.com/fangyiyu/Google_Cloud_Platform/blob/main/ai_platform_classification_Tenforflow.py)
 
