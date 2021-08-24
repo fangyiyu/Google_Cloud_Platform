@@ -9,11 +9,11 @@
 - Confirm NGINX is running:```ps auwx | grep nginx```  
 
 ## Takeaways from Qwiklab
-- How to use [DataFlow](https://google.qwiklabs.com/focuses/1101?parent=catalog) templates to create a streaming pipeline
+- How to use [DataFlow](https://google.qwiklabs.com/focuses/1101?parent=catalog) templates to create a streaming pipeline.
 - How to use [DataPrep](https://google.qwiklabs.com/focuses/584?parent=catalog) to visually explore, clean, prepare data from analysis. Quite like Tableau, can do pivot, filter, and more for data analysis.
 - How to use [Google Data Studio](https://run.qwiklabs.com/focuses/3614?parent=catalog) to create dashboards and reports like in Tableau.
 - How to use [AI Platform](https://google.qwiklabs.com/focuses/581?parent=catalog) > Notebooks and terminal command-line prompt to train, test data and predict using the trained model locally and deploy on the cloud. The example is a binary classification model using a Keras Sequential model.
-- How to use [DataProc](https://google.qwiklabs.com/focuses/585?parent=catalog) to run Apache Spark and Hadoop cluster through console and command-line prompt.
+- How to run [Apache Spark](https://google.qwiklabs.com/focuses/3390?parent=catalog) on Hadoop clusters, such as [Google Cloud DataProc](https://google.qwiklabs.com/focuses/585?parent=catalog), in order to process very large datasets in parallel and use interactive shell like Pyspark to analyze data.
 - How to use [Cloud Natural Language API](https://google.qwiklabs.com/focuses/582?parent=catalog) to perform POS tag, sentimental analysis, NER, and content classification.
 - How to use [Cloud Speech API](https://google.qwiklabs.com/focuses/588?parent=catalog) to convert audio into text transcription both synchronously and asynchronously, meaning you can send a complete audio file, but you can also use synchronous method to perform streaming speech to text transcription while the user is still speaking.  
 - How to use [Google Kubernetes Engine (GKE)](https://google.qwiklabs.com/focuses/878?parent=catalog) to deploy, manage, and scale containerized applications. The Kubernetes Engine environment consists of multiple machines (specifically Compute Engine instances) grouped to form a container cluster.
